@@ -8,3 +8,13 @@
   box-shadow: none;
   border: none;
 }
+
+.footer-background{
+  background-color: #313131;
+}
+
+.ui.footer-menu{
+  padding-top: 20px;
+  padding-bottom: 10px;
+  color: white;
+}
